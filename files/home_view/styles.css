@@ -133,8 +133,8 @@
 }
 #u12 {
   position:absolute;
-  left:244px;
-  top:270px;
+  left:225px;
+  top:281px;
   width:151px;
   height:33px;
   font-size:28px;
@@ -155,8 +155,8 @@
 }
 #u14 {
   position:absolute;
-  left:254px;
-  top:318px;
+  left:235px;
+  top:329px;
   width:132px;
   height:33px;
   font-size:28px;
@@ -177,7 +177,7 @@
 }
 #u16 {
   position:absolute;
-  left:50px;
+  left:31px;
   top:370px;
   width:541px;
   height:10px;
@@ -205,7 +205,7 @@
 }
 #u17 {
   position:absolute;
-  left:172px;
+  left:153px;
   top:391px;
   width:296px;
   height:33px;
@@ -227,7 +227,7 @@
 }
 #u19 {
   position:absolute;
-  left:286px;
+  left:267px;
   top:700px;
   width:75px;
   height:33px;
@@ -249,7 +249,7 @@
 }
 #u21 {
   position:absolute;
-  left:284px;
+  left:265px;
   top:733px;
   width:80px;
   height:67px;
@@ -270,7 +270,7 @@
 }
 #u22 {
   position:absolute;
-  left:401px;
+  left:382px;
   top:770px;
   width:116px;
   height:30px;
@@ -293,7 +293,7 @@
 }
 #u24 {
   position:absolute;
-  left:390px;
+  left:371px;
   top:750px;
   width:14px;
   height:16px;
@@ -316,7 +316,7 @@
 }
 #u26 {
   position:absolute;
-  left:401px;
+  left:382px;
   top:734px;
   width:179px;
   height:30px;
@@ -339,7 +339,7 @@
 }
 #u28 {
   position:absolute;
-  left:359px;
+  left:340px;
   top:880px;
   width:130px;
   height:130px;
@@ -361,7 +361,7 @@
 }
 #u30 {
   position:absolute;
-  left:284px;
+  left:265px;
   top:733px;
   width:76px;
   height:67px;
@@ -370,7 +370,7 @@
 }
 #u31 {
   position:absolute;
-  left:174px;
+  left:155px;
   top:880px;
   width:130px;
   height:130px;
@@ -392,7 +392,7 @@
 }
 #u33 {
   position:absolute;
-  left:210px;
+  left:191px;
   top:949px;
   width:102px;
   height:21px;
@@ -414,7 +414,7 @@
 }
 #u35 {
   position:absolute;
-  left:224px;
+  left:205px;
   top:436px;
   width:200px;
   height:235px;
@@ -435,7 +435,7 @@
 }
 #u36 {
   position:absolute;
-  left:174px;
+  left:155px;
   top:880px;
   width:315px;
   height:130px;
@@ -626,7 +626,7 @@
   position:absolute;
   left:50px;
   top:194px;
-  width:502px;
+  width:503px;
   height:856px;
   overflow:hidden;
   visibility:hidden;
@@ -635,7 +635,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:502px;
+  width:503px;
   height:856px;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
@@ -747,7 +747,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:502px;
+  width:503px;
   height:856px;
   visibility:hidden;
   -ms-overflow-x:hidden;
