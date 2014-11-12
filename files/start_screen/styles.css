@@ -213,16 +213,16 @@
 #u19 {
   position:absolute;
   left:140px;
-  top:827px;
+  top:825px;
   width:361px;
-  height:81px;
+  height:83px;
 }
 #u19_input {
   position:absolute;
   left:0px;
   top:0px;
   width:361px;
-  height:81px;
+  height:83px;
   font-family:'Roboto-Regular', 'Roboto';
   font-weight:400;
   font-style:normal;
@@ -234,7 +234,7 @@
 #u20 {
   position:absolute;
   left:140px;
-  top:823px;
+  top:824px;
   width:361px;
   height:90px;
   overflow:hidden;
