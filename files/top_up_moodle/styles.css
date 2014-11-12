@@ -174,7 +174,7 @@
 #u16 {
   position:absolute;
   left:139px;
-  top:369px;
+  top:366px;
   width:361px;
   height:91px;
 }
@@ -184,10 +184,10 @@
   top:0px;
   width:361px;
   height:91px;
-  font-family:'ArialMT', 'Arial';
-  font-weight:400;
+  font-family:'Roboto-Light', 'Roboto Light', 'Roboto';
+  font-weight:200;
   font-style:normal;
-  font-size:36px;
+  font-size:55px;
   text-decoration:none;
   color:#000000;
   text-align:center;
@@ -207,6 +207,15 @@
   top:940px;
   width:361px;
   height:90px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u19 {
+  position:absolute;
+  left:139px;
+  top:366px;
+  width:361px;
+  height:91px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
