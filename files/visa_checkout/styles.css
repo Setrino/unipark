@@ -226,3 +226,12 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u20 {
+  position:absolute;
+  left:147px;
+  top:952px;
+  width:370px;
+  height:99px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
