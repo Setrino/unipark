@@ -315,6 +315,9 @@
   top:19px;
   width:170px;
   height:60px;
+  font-family:'RobotoSlab-Light', 'Roboto Slab Light', 'Roboto Slab';
+  font-weight:200;
+  font-style:normal;
   font-size:36px;
 }
 #u24_img {
@@ -337,6 +340,9 @@
   top:90px;
   width:170px;
   height:60px;
+  font-family:'RobotoSlab-Light', 'Roboto Slab Light', 'Roboto Slab';
+  font-weight:200;
+  font-style:normal;
   font-size:36px;
 }
 #u26_img {
@@ -359,6 +365,9 @@
   top:170px;
   width:170px;
   height:60px;
+  font-family:'RobotoSlab-Light', 'Roboto Slab Light', 'Roboto Slab';
+  font-weight:200;
+  font-style:normal;
   font-size:36px;
 }
 #u28_img {
@@ -608,6 +617,15 @@
   top:390px;
   width:360px;
   height:90px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u50 {
+  position:absolute;
+  left:126px;
+  top:1121px;
+  width:90px;
+  height:70px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
