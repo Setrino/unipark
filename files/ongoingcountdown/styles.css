@@ -191,11 +191,11 @@
 }
 #u18 {
   position:absolute;
-  left:183px;
+  left:180px;
   top:516px;
-  width:280px;
+  width:283px;
   height:134px;
-  font-family:'Roboto-Thin', 'Roboto Thin', 'Roboto';
+  font-family:'Roboto-Light', 'Roboto Light', 'Roboto';
   font-weight:200;
   font-style:normal;
   font-size:150px;
@@ -204,14 +204,14 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:281px;
+  width:284px;
   height:135px;
 }
 #u19 {
   position:absolute;
   left:0px;
   top:59px;
-  width:280px;
+  width:283px;
   visibility:hidden;
   word-wrap:break-word;
 }
